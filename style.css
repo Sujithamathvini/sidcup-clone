@@ -67,7 +67,7 @@ video{
 }
 #main{
     position: relative;
-    background-color: rgb(0, 0, 0,0.35);
+    background-color: rgb(0, 0, 0,0.90);
 }
 #page1{
     height: 100vh; /*view port height*/ /*the reason for using 'vh' here, bcz this 'page1' has a parent 'main' which doesn't have height. So if we use height=100% it won't work. Thats y we use '100vh' which allows u to cover full screen*/
